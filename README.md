@@ -8,3 +8,5 @@ For that purpose, the pipeline for training and testing is defined as follows:
 - Training models for prediction
 - Model comparison
 
+As a result of the above pipeline, a multi-class Support Vector Machine was selected as the best model for prediciton of patient state.
+
